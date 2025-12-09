@@ -1,1 +1,1 @@
-# Project-RISC-V_AMBA_Peripheral_Design
+# Project : RISC-V AMBA Peripheral Design
